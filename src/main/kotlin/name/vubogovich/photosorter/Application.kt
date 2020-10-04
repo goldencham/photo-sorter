@@ -1,4 +1,4 @@
-package name.goldencham.photosorter
+package name.vubogovich.photosorter
 
 fun main() {
     println("Welcome to photo sorter")
